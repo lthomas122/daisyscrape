@@ -1,0 +1,4 @@
+.venv
+components/*
+!components/.gitkeep
+.DS_Store
