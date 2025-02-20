@@ -16,6 +16,7 @@ source .venv/bin/activate
 ```
 > [!NOTE]
 > Use `Scripts` instead of `bin` on Windows
+
 Install dependencies:
 ```bash
 pip install -r requirements.txt
@@ -25,6 +26,7 @@ Finally, run the script with:
 python daisyscrape.py
 ```
 You will find all of the components in their respective folder in `/components`
+
 
 ## Changing Scraper URLs
 You can run this line of javascript in `Dev Tools > Console` on a browser to get a new list of component URLs:
