@@ -10,9 +10,9 @@ Create virtual environment:
 ```bash
 python -m virtualenv .venv
 ```
-Start virtual enivironment:
+Start virtual environment:
 ```bash
-. .venv/bin/activate
+source .venv/bin/activate
 ```
 > [!NOTE]
 > Use `Scripts` instead of `bin` on Windows
